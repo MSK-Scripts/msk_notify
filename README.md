@@ -2,7 +2,7 @@
 [STANDALONE] Simple Notification System
 
 ## Example
-![https://prnt.sc/58CjiXzU3Yy6]
+![2ARA4YMoR9ePV5R3jxVpWQ](https://user-images.githubusercontent.com/49867381/228982840-796fda43-b8df-49fc-9725-3ccca6044494.jpeg)
 
 ## Exports
 ### Clientside
