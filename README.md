@@ -1,6 +1,9 @@
 # msk_notify
 [STANDALONE] Simple Notification System
 
+## Example
+![https://prnt.sc/58CjiXzU3Yy6]
+
 ## Exports
 ### Clientside
 **Usage** 
