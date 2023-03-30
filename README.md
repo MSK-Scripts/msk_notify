@@ -12,7 +12,7 @@ exports.msk_notify:Notify(message, type, duration, playSound)
 ```
 **Example** 
 ```lua
-exports.msk_notify:Notify('Text with ~r~red~s~ color', 'default', 5000, true)
+exports.msk_notify:Notify('This ~r~is~s~ a ~y~test~s~ in ~b~blue~s~', 'default', 5000, true)
 ```
 
 ### Serverside
@@ -22,7 +22,7 @@ exports.msk_notify:Notify(source, message, type, duration, playSound)
 ```
 **Example** 
 ```lua
-exports.msk_notify:Notify(source, 'Text with ~r~red~s~ color', 'default', 5000, true)
+exports.msk_notify:Notify(source, 'This ~r~is~s~ a ~y~test~s~ in ~b~blue~s~', 'default', 5000, true)
 ```
 
 ## Colors
